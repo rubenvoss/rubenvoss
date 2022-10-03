@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a passionate automator! Previous Webflow Developer turned Backend :)
 - 🔭 I’m currently working on a reverse proxy server that hosts multiple webapps & I'm writing a guide about it
-- 🌱 I’m currently learning AWS, Docker, Continuous Integration and Continuos Deployment
+- ⭐ I'm all about AWS, Docker, Continuous Integration and Continuos Deployment right now.
 - 💬 Ask me about how to dockerize your Rails App!
 ### Tech Stack
 <a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="21px" height="21px"></a>
