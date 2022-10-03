@@ -2,8 +2,7 @@
 I'm a passionate automator! Previous Webflow Developer turned Backend :)
 - 🔭 I’m currently working on a reverse proxy server that hosts multiple webapps & I'm writing a guide about it
 - ⭐ I'm all about AWS, Docker, Continuous Integration and Continuos Deployment right now.
-- 💬 Ask me about how to dockerize your Rails App!
-- Reach me on [LinkedIn](https://www.linkedin.com/in/rubenvoss/)
+- 💬 Reach me on [LinkedIn](https://www.linkedin.com/in/rubenvoss/)
 ### Tech Stack
 <a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="21px" height="21px"></a>
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
