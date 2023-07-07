@@ -1,8 +1,7 @@
 ### Hi there 👋
-I'm a passionate automator! Previous Webflow Developer turned DevOps :)
-- 🔭 I’m currently working on a reverse proxy server that hosts multiple webapps & I'm writing a guide about it
-- ⭐ I'm all about AWS, Docker, Continuous Integration and Continuos Deployment right now.
-- 📖 Studying for the AWS Certified Solutions Architect Associate SAA-C03
+I'm a passionate automator! Previous Web Developer turned DevOps :)
+- 🔭 I’m currently Studying for the RHCSA Certification
+- ⭐ I'm all about Automation on Linux, Containers and CD right now.
 - 💬 Reach me on [LinkedIn](https://www.linkedin.com/in/rubenvoss/)
 ### Tech Stack
 <a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="21px" height="21px"></a>
