@@ -1,28 +1,12 @@
-<!--
-Welcome to resume.lol !
-
-This is the template you can use to get started.
-
-More documentation can be found in the docs section
->>> https://resume.lol/docs
--->
-@REDACTED=false
-@NAME=Ruben Voß||Ruben Voss
-@EMAIL=devrubenv@gmail.com||devrubenv@gmail.com
-@PHONE=+49 1522 8988 757||(555) 123-5555
-@LOCATION=Gesees, Bayreuth
-@WEBSITE=github.com/rubenvoss
-
-
-# {NAME}
+# Ruben Voß
 
 <div class="section headerInfo">
 
-- {EMAIL}
-- {PHONE}
+- devrubenv[at]gmail.com
+- +49 1522 8988 757
 - [GitHub](https://github.com/rubenvoss)
 - [LinkedIn](https://www.linkedin.com/in/rubenvoss/)
-- {LOCATION}
+- Gesees, Bayreuth
 
 </div>
 
