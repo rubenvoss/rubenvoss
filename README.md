@@ -3,7 +3,7 @@
 <div class="section headerInfo">
 
 - devrubenv[at]gmail.com
-- +49 1522 8988 757
+- +4915679171328
 - [GitHub](https://github.com/rubenvoss)
 - [LinkedIn](https://www.linkedin.com/in/rubenvoss/)
 - Gesees, Bayreuth
