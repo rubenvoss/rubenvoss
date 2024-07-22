@@ -1,8 +1,89 @@
-### Hi there 👋
-I'm a passionate automator! Previous Web Developer turned DevOps :)
-- 🔭 I’m currently Studying for the RHCSA Certification
-- ⭐ I'm all about Automation on Linux, Containers and CD right now.
-- 💬 Reach me on [LinkedIn](https://www.linkedin.com/in/rubenvoss/)
+<!--
+Welcome to resume.lol !
+
+This is the template you can use to get started.
+
+More documentation can be found in the docs section
+>>> https://resume.lol/docs
+-->
+@REDACTED=false
+@NAME=Ruben Voß||Ruben Voss
+@EMAIL=devrubenv@gmail.com||devrubenv@gmail.com
+@PHONE=+49 1522 8988 757||(555) 123-5555
+@LOCATION=Gesees, Bayreuth
+@WEBSITE=github.com/rubenvoss
+
+
+# {NAME}
+
+<div class="section headerInfo">
+
+- {EMAIL}
+- {PHONE}
+- [GitHub](https://github.com/rubenvoss)
+- [LinkedIn](https://www.linkedin.com/in/rubenvoss/)
+- {LOCATION}
+
+</div>
+
+## Experience
+
+### Linux-Specialist, Metalog GmbH <span class="spacer"></span> Apr 2024 &mdash; Present
+
+
+- Helping with the transition of multiple Webshops to a new System
+- Setting up Webservers
+- Setting up Crontab Monitoring
+- Developing an internal django App
+
+Technologies: Linux, bash, MySQL, JTL, crontab
+
+### Software Delivery Engineer, G&H Bankensoftware AG <span class="spacer"></span> Nov 2022 &mdash; Mar 2024
+
+- Automation on Linux with Python
+- Developing Jenkins Pipelines
+- Working on high-traffic Production Servers
+- Provisioning Azure Infrastructure
+- Provisioning Containers
+
+Technologies: Python, Jenkins, docker, RedHat, Azure
+
+### Developer, GoClimb <span class="spacer"></span> Jul 2022 &mdash; Oct 2022
+
+- Built a Rails Application that Matches Climbers based on location and travel duration
+- Containerized the App with Docker
+- Developed CI/CD Pipelines for the App with Webhooks, Github Actions, AWS
+
+Technologies:  Ruby on Rails, Amazon Web Services (AWS), Projectmanagement,  Docker, Gitpod
+
+### Web Developer, Lottano Webdesign <span class="spacer"></span> Nov 2020 &mdash; Jun 2022
+
+- Developed Websites with Webflow, Javascript
+- Setting up Webservers
+- Setting up Domains and DNS Records
+
+
+<!-- Older resume bits can be commented out so that you can keep the info without deleting it -->
+
+<!-- ### <span>Software Engineering Intern, Google</span> <span>Mar 2017 &mdash; Sept 2017</span>
+
+### <span>Software Engineering Intern, Curalate</span> <span>June 2016 &mdash; Sept 2016</span> -->
+
+## Education
+
+### CompTIA, TestOut Linux Pro <span class="spacer"></span> 2024
+
+### Udemy, Docker & Kubernetes <span class="spacer"></span> 2022
+
+### Le Wagon, Fullstack Web Developer <span class="spacer"></span> 2022
+
+### Johns Hopkins, HTML CSS & Javascript <span class="spacer"></span> 2022
+
+
+## Skills
+- Communication: NLP Practitioner, EOL Trainer
+- Code: Python, django, bash - Scripting
+- Tools: Linux, docker, Jenkins, RedHat, crontabs, AWS, Azure
 ### Tech Stack
 <a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="21px" height="21px"></a>
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
