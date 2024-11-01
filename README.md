@@ -16,9 +16,8 @@
 
 
 - Helping with the transition of multiple Webshops to a new System
-- Setting up Webservers
-- Setting up Crontab Monitoring
-- Developing an internal django App
+- Reduced technical onboarding time from 2 days to 10 minutes with Docker & Gitpod
+- Developed an internal django App
 
 Technologies: Linux, bash, MySQL, JTL, crontab
 
