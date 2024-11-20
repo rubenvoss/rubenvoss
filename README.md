@@ -6,44 +6,43 @@
 - +4915679171328
 - [GitHub](https://github.com/rubenvoss)
 - [LinkedIn](https://www.linkedin.com/in/rubenvoss/)
-- Gesees, Bayreuth
+- Nürnberg, Bavaria
 
 </div>
 
 ## Experience
 
-### Linux-Specialist, Metalog GmbH <span class="spacer"></span> Apr 2024 &mdash; Present
+### IT-Infrastructure Specialist, Metalog GmbH <span class="spacer"></span> Apr 2024 &mdash; Present
 
 
-- Helping with the transition of multiple Webshops to a new System
+- Successfully transitioned multiple webshops to a new architecture
 - Reduced technical onboarding time from 2 days to 10 minutes with Docker & Gitpod
-- Developed an internal django App
+- Developed an internal django app
 
-Technologies: Linux, bash, MySQL, JTL, crontab
+Technologies: Linux, bash, Python, MySQL, JTL, crontab, Docker
 
 ### Software Delivery Engineer, G&H Bankensoftware AG <span class="spacer"></span> Nov 2022 &mdash; Mar 2024
 
-- Automation on Linux with Python
-- Developing Jenkins Pipelines
-- Working on high-traffic Production Servers
-- Provisioning Azure Infrastructure
-- Provisioning Containers
+- Reduced deployment time for 20+ assets from days to minutes by automating manual steps with Python and Jenkins
+- Succesfully deployed important updates on high-traffic Production Servers, ensuring the application remained online throughout the process.
+- Took the initiative to set up G&Hs Infrastructure in Azure
+- Simplified updates and streamlined infrastructure management by implementing a Jenkins instance with Infrastructure as Code
 
-Technologies: Python, Jenkins, docker, RedHat, Azure
+Technologies: RedHat Linux, Python, Jenkins, Docker, Azure
 
 ### Developer, GoClimb <span class="spacer"></span> Jul 2022 &mdash; Oct 2022
 
 - Built a Rails Application that Matches Climbers based on location and travel duration
-- Containerized the App with Docker
-- Developed CI/CD Pipelines for the App with Webhooks, Github Actions, AWS
-
-Technologies:  Ruby on Rails, Amazon Web Services (AWS), Projectmanagement,  Docker, Gitpod
+- To ensure high availability and scalability - Containerized the Application
+- Prevented bugs and ensured smooth deployments by implementing CI/CD pipelines for the application using webhooks, GitHub Actions, and AWS.
+  
+Technologies:  Ruby on Rails, Amazon Web Services, Projectmanagement,  Docker, GitHub Actions
 
 ### Web Developer, Lottano Webdesign <span class="spacer"></span> Nov 2020 &mdash; Jun 2022
 
-- Developed Websites with Webflow, Javascript
-- Setting up Webservers
-- Setting up Domains and DNS Records
+- Created beautiful portfolio websites using Webflow and JavaScript
+- Cut costs by 70% by configuring hosting on custom servers
+- Set up and connected domains with DNS Records
 
 
 <!-- Older resume bits can be commented out so that you can keep the info without deleting it -->
@@ -53,6 +52,10 @@ Technologies:  Ruby on Rails, Amazon Web Services (AWS), Projectmanagement,  Doc
 ### <span>Software Engineering Intern, Curalate</span> <span>June 2016 &mdash; Sept 2016</span> -->
 
 ## Education
+
+### Currently Studying for CKA Kubernetes <span class="spacer"></span> Jan 2025
+
+### HashiCorp, Certified Terraform Associate (003) <span class="spacer"></span> 2024
 
 ### CompTIA, TestOut Linux Pro <span class="spacer"></span> 2024
 
@@ -64,9 +67,9 @@ Technologies:  Ruby on Rails, Amazon Web Services (AWS), Projectmanagement,  Doc
 
 
 ## Skills
-- Communication: NLP Practitioner, EOL Trainer
-- Code: Python, django, bash - Scripting
-- Tools: Linux, docker, Jenkins, RedHat, crontabs, AWS, Azure
+- Communication: NLP Practitioner, EOL Trainer, a bit of Projectmanagement
+- Technologies: Linux, RedHat, Python, django, Docker, Jenkins, Kubernetes, Azure, GitHub Actions, bash - Scripting, crontab, AWS
+
 ### Tech Stack
 <a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="21px" height="21px"></a>
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
