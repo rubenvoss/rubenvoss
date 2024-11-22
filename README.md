@@ -20,7 +20,7 @@
 - Reduced technical onboarding time from 2 days to 10 minutes with Docker & Gitpod
 - Decreased complexity for Workshops by developing an internal django app, set up hosting & logging on hetzner
 
-Technologies: Linux, bash, Python, django, MySQL, JTL, crontab, Docker
+Technologies: Linux, bash, Python, Terraform, django, MySQL, JTL, crontab, Docker
 
 ### Software Delivery Engineer, G&H Bankensoftware AG <span class="spacer"></span> Nov 2022 &mdash; Mar 2024
 
@@ -64,13 +64,11 @@ Technologies:  Ruby on Rails, Amazon Web Services, Projectmanagement,  Docker, G
 
 ### Le Wagon, Fullstack Web Developer <span class="spacer"></span> 2022
 
-### Johns Hopkins, HTML CSS & Javascript <span class="spacer"></span> 2022
-
 
 ## Soft Skills
 - Communication: NLP Practitioner, EOL Trainer, a bit of Projectmanagement
-- Always believed in communication before implementation
-- Feedback from @G&H: "His work behavior was characterized by **very good communication and teamwork skills.** he integrated himself into our agile team structures in an exemplary manner at all times and thus promoted successful cooperation"
+- Always believed in **communication before implementation**
+- Feedback from G&H: "His work behavior was characterized by **very good communication and teamwork skills.** he integrated himself into our agile team structures in an exemplary manner at all times and thus promoted successful cooperation"
 
 ## Hard Skills
 - Technologies: Linux, Python, containers, Terraform, Kubernetes, Jenkins, RedHat, Git, django, Docker, Azure, GitHub Actions, bash - Scripting, crontab, AWS
