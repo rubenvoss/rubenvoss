@@ -1,4 +1,4 @@
-# Ruben Voß
+# Ruben Voẞ
 
 <div class="section headerInfo">
 
