@@ -2,8 +2,8 @@
 
 <div class="section headerInfo">
 
-- devrubenv[at]gmail.com
-- +4915679171328
+- [devrubenv@gmail.com](mailto:devrubenv@gmail.com)
+- +49 1567 9171328
 - [GitHub](https://github.com/rubenvoss)
 - [LinkedIn](https://www.linkedin.com/in/rubenvoss/)
 - Nürnberg, Bavaria
@@ -12,13 +12,13 @@
 
 ## Experience
 
-### IT-Infrastructure Specialist, Metalog GmbH <span class="spacer"></span> Apr 2024 &mdash; Present
+### IT-Infrastructure Specialist, Metalog GmbH | Freelance <span class="spacer"></span> Apr 2024 &mdash; Present
 
 
 - Successfully transitioned multiple webshops to a new architecture
 - To ensure stability and maximize uptime, migrated infrastructure and data to a modernized system
 - Reduced technical onboarding time from 2 days to 10 minutes with Docker & Gitpod
-- Decreased complexity for Workshops by developing an internal django app, set up hosting & logging on hetzner
+- Decreased complexity for Metalogs event administration system by developing an internal django app, set up hosting & logging
 
 Technologies: Linux, bash, Python, Terraform, django, MySQL, JTL, crontab, Docker
 
@@ -72,7 +72,7 @@ Technologies:  Ruby on Rails, Amazon Web Services, Projectmanagement,  Docker, G
 
 ## Hard Skills
 - Technologies: Linux, Python, containers, Terraform, Kubernetes, Jenkins, RedHat, Git, django, Docker, Azure, GitHub Actions, bash - Scripting, crontab, AWS
-- Feedback from G&H: "In addition to his **specialist knowledge**, Mr. voss impressed with his **very good technical understanding**, which enabled him to always find good solutions even for difficult tasks."
+- Feedback from G&H: "In addition to his **specialist knowledge**, Mr. Voss impressed with his **very good technical understanding**, which enabled him to always find good solutions even for difficult tasks."
 
 ### Tech Stack
 <a href="https://www.linuxfoundation.org/" title="Linux"><img src="https://github.com/get-icon/geticon/raw/master/icons/linux-tux.svg" alt="Linux" width="21px" height="21px"></a>
