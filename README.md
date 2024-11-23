@@ -12,7 +12,7 @@
 
 ## Experience
 
-### IT-Infrastructure Specialist, Metalog GmbH | Freelance <span class="spacer"></span> Apr 2024 &mdash; Present
+### IT-Infrastructure Specialist, Metalog GmbH & Co. KG | Freelance <span class="spacer"></span> Apr 2024 &mdash; Present
 
 
 - Successfully transitioned multiple webshops to a new architecture
