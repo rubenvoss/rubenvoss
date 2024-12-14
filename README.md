@@ -12,15 +12,15 @@
 
 ## Experience
 
-### IT-Infrastructure Specialist, Metalog GmbH & Co. KG | Freelance <span class="spacer"></span> Apr 2024 &mdash; Present
+### IT-Infrastructure Specialist, Metalog GmbH & Co. KG | Freelance <span class="spacer"></span> Mar 2024 &mdash; Present
 
 
-- Successfully transitioned multiple webshops to a new architecture
-- To ensure stability and maximize uptime, migrated infrastructure and data to a modernized system
+- Reduced downtime and improved stability: Successfully migrated infrastructure and data of multiple webshops to a modernized system
+- To protect data from system crashes and hacking attacks, planned and implemented a backup and monitoring strategy
 - Reduced technical onboarding time from 2 days to 10 minutes with Docker & Gitpod
 - Decreased complexity for Metalogs event administration system by developing an internal django app, set up hosting & logging
 
-Technologies: Linux, bash, Python, Terraform, django, MySQL, JTL, crontab, Docker
+Technologies: Linux, bash, Python, Terraform, django, MySQL, JTL, crontab, Docker, PowerShell, Windows Server
 
 ### Software Delivery Engineer, G&H Bankensoftware AG <span class="spacer"></span> Nov 2022 &mdash; Mar 2024
 
