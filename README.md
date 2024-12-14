@@ -17,7 +17,7 @@
 - Reduced downtime and improved stability by successfully migrating the infrastructure and data of multiple webshops to a modernized system
 - To protect data from system crashes and hacking attacks, planned and implemented a backup and monitoring strategy
 - Reduced technical onboarding time from 2 days to 10 minutes using Docker and Gitpod
-- Decreased the complexity and manual workload for Metalogs’ event administration system by developing a dedicated internal Django application, as well as implementing hosting and logging solutions
+- Decreased the complexity and manual workload for Metalogs’ event administration system by developing a dedicated internal Django application, as well as implementing hosting and logging
 
 **Technologies:** Linux, bash, Python, Terraform, django, MySQL, JTL, crontab, Docker, PowerShell
 
@@ -44,6 +44,14 @@
 - Cut costs by 70% by configuring hosting on custom servers
 - Set up and connected domains with DNS Records
 
+## Soft Skills | Feedback
+- Communication: NLP Practitioner, EOL Trainer, a bit of Projectmanagement
+- Always believed in **communication before implementation**
+- Feedback from Metalog: "Ruben is a **great communicator**, he is able to build bridges between technical and non-technical People."
+- Feedback from G&H: "In addition to his **specialist knowledge**, Mr. Voss impressed us with his **very good technical understanding**, which enabled him to always find good solutions, even for difficult tasks."
+
+**Technologies:** Linux, bash, Python, Terraform, django, MySQL, crontab, Docker, RedHat Linux, Python, Amazon Web Services, Jenkins, Docker, Azure, bash, crontab, Ruby on Rails, PowerShell, Docker, GitHub Actions
+
 ## Education | Certification
 
 ### Currently Studying for CKA Kubernetes <span class="spacer"></span> Jan 2025
@@ -56,14 +64,6 @@
 
 ### Le Wagon, Fullstack Web Developer <span class="spacer"></span> 2022
 
-
-## Soft Skills | Feedback
-- Communication: NLP Practitioner, EOL Trainer, a bit of Projectmanagement
-- Always believed in **communication before implementation**
-- Feedback from Metalog: "Ruben is a **great communicator**, he is able to build bridges between technical and non-technical People."
-- Feedback from G&H: "In addition to his **specialist knowledge**, Mr. Voss impressed us with his **very good technical understanding**, which enabled him to always find good solutions, even for difficult tasks."
-
-**Technologies:** Linux, bash, Python, Terraform, django, MySQL, crontab, Docker, RedHat Linux, Python, Amazon Web Services, Jenkins, Docker, Azure, bash, crontab, Ruby on Rails, PowerShell, Docker, GitHub Actions
 
 
 ### Tech Stack
