@@ -6,7 +6,6 @@
 - +49 1567 9171328
 - [GitHub](https://github.com/rubenvoss)
 - [LinkedIn](https://www.linkedin.com/in/rubenvoss/)
-- Nürnberg, Bavaria
 
 </div>
 
@@ -20,7 +19,7 @@
 - Reduced technical onboarding time from 2 days to 10 minutes using Docker and Gitpod.
 - Decreased the complexity and manual workload for Metalogs’ event administration system by developing a dedicated internal Django application, as well as implementing hosting and logging solutions.
 
-Technologies: Linux, bash, Python, Terraform, django, MySQL, JTL, crontab, Docker, PowerShell, Windows Server
+Technologies: Linux, bash, Python, Terraform, django, MySQL, JTL, crontab, Docker, PowerShell
 
 ### Software Delivery Engineer, G&H Bankensoftware AG <span class="spacer"></span> Nov 2022 &mdash; Mar 2024
 
@@ -29,7 +28,7 @@ Technologies: Linux, bash, Python, Terraform, django, MySQL, JTL, crontab, Docke
 - Took the initiative to set up G&Hs Infrastructure in Azure
 - Simplified updates and streamlined infrastructure management by implementing a Jenkins instance with Infrastructure as Code
 
-Technologies: RedHat Linux, Python, Jenkins, Docker, Azure
+Technologies: RedHat Linux, Python, Jenkins, Docker, Azure, bash, crontab
 
 ### Developer, GoClimb <span class="spacer"></span> Jul 2022 &mdash; Oct 2022
 
@@ -52,7 +51,7 @@ Technologies:  Ruby on Rails, Amazon Web Services, Projectmanagement,  Docker, G
 
 ### <span>Software Engineering Intern, Curalate</span> <span>June 2016 &mdash; Sept 2016</span> -->
 
-## Education
+## Education | Certification
 
 ### Currently Studying for CKA Kubernetes <span class="spacer"></span> Jan 2025
 
@@ -72,6 +71,7 @@ Technologies:  Ruby on Rails, Amazon Web Services, Projectmanagement,  Docker, G
 
 ## Hard Skills
 - Feedback from G&H: "In addition to his **specialist knowledge**, Mr. Voss impressed us with his **very good technical understanding**, which enabled him to always find good solutions, even for difficult tasks."
+
 
 ### Tech Stack
 <a href="https://www.linuxfoundation.org/" title="Linux"><img src="https://github.com/get-icon/geticon/raw/master/icons/linux-tux.svg" alt="Linux" width="21px" height="21px"></a>
