@@ -68,11 +68,10 @@ Technologies:  Ruby on Rails, Amazon Web Services, Projectmanagement,  Docker, G
 ## Soft Skills
 - Communication: NLP Practitioner, EOL Trainer, a bit of Projectmanagement
 - Always believed in **communication before implementation**
-- Feedback from G&H: "His work behavior was characterized by **very good communication and teamwork skills.** he integrated himself into our agile team structures in an exemplary manner at all times and thus promoted successful cooperation"
+- Feedback from Metalog: "Ruben is a **great communicator**, he is able to build bridges between technical and non-technical People."
 
 ## Hard Skills
-- Technologies: Linux, Python, containers, Terraform, Kubernetes, Jenkins, RedHat, Git, django, Docker, Azure, GitHub Actions, bash - Scripting, crontab, AWS
-- Feedback from G&H: "In addition to his **specialist knowledge**, Mr. Voss impressed with his **very good technical understanding**, which enabled him to always find good solutions even for difficult tasks."
+- Feedback from G&H: "In addition to his **specialist knowledge**, Mr. Voss impressed us with his **very good technical understanding**, which enabled him to always find good solutions, even for difficult tasks."
 
 ### Tech Stack
 <a href="https://www.linuxfoundation.org/" title="Linux"><img src="https://github.com/get-icon/geticon/raw/master/icons/linux-tux.svg" alt="Linux" width="21px" height="21px"></a>
