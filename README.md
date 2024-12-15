@@ -11,13 +11,13 @@
 
 ## Experience
 
-### IT-Infrastructure Specialist, Metalog GmbH & Co. KG | Freelance <span class="spacer"></span> Mar 2024 &mdash; Present
+### IT-Infrastructure Expert, Metalog GmbH & Co. KG | Freelance <span class="spacer"></span> Mar 2024 &mdash; Present
 
 
-- Reduced downtime and improved stability by successfully migrating the infrastructure and data of multiple webshops to a modernized system
 - To protect data from system crashes and hacking attacks, planned and implemented a backup and monitoring strategy
 - Reduced technical onboarding time from 2 days to 10 minutes using Docker and Gitpod
 - Decreased the complexity and manual workload for Metalogs’ event administration system by developing a dedicated internal Django application, as well as implementing hosting and logging
+- Reduced downtime and improved stability by successfully migrating the infrastructure and data of multiple webshops to a modernized system
 
 **Technologies:** Linux, bash, Python, Terraform, django, MySQL, JTL, crontab, Docker, PowerShell
 
