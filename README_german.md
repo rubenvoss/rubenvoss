@@ -29,7 +29,7 @@
 - Took the initiative to set up G&Hs Infrastructure in Azure
 - Simplified updates and streamlined infrastructure management by implementing a Jenkins instance with Infrastructure as Code
 
-**Technologies:** RedHat Linux, Python, Jenkins, Docker, Azure, bash, crontab
+**Technologien:** RedHat Linux, Python, Jenkins, Docker, Azure, bash, crontab
 
 ### Developer, GoClimb <span class="spacer"></span> Jul 2022 &mdash; Oct 2022
 
@@ -37,7 +37,7 @@
 - To ensure high availability and scalability - Containerized the Application
 - Prevented bugs and ensured smooth deployments by implementing CI/CD pipelines for the application using webhooks, GitHub Actions, and AWS
   
-**Technologies:**  Ruby on Rails, Amazon Web Services, Projectmanagement,  Docker, GitHub Actions
+**Technologien:**  Ruby on Rails, Amazon Web Services, Projectmanagement,  Docker, GitHub Actions
 
 ### System Administrator, Lottano Webdesign <span class="spacer"></span> Nov 2020 &mdash; Jun 2022
 
@@ -51,7 +51,7 @@
 - Feedback from Metalog: "Ruben is a **great communicator**, he is able to build bridges between technical and non-technical People."
 - Feedback from G&H: "In addition to his **specialist knowledge**, Mr. Voss impressed us with his **very good technical understanding**, which enabled him to always find good solutions, even for difficult tasks."
 
-**Technologies:** Linux, bash, Python, Terraform, django, MySQL, crontab, Docker, RedHat Linux, Python, Amazon Web Services, Jenkins, Docker, Azure, bash, crontab, Ruby on Rails, PowerShell, Docker, GitHub Actions
+**Technologien:** Linux, Terraform, Docker, RedHat Linux, Python, Azure, django, Gitpod, Amazon Web Services, Jenkins, Kubernetes, MySQL, bash, crontab, PowerShell, GitHub Actions
 
 ## Education | Certification
 
