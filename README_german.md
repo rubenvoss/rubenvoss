@@ -11,19 +11,20 @@
 
 ## Experience
 
-### IT-Infrastructure Expert, Metalog GmbH & Co. KG | Freelance <span class="spacer"></span> Mar 2024 &mdash; Present
+### IT-Infrastructure Experte, Metalog GmbH & Co. KG | Freelance <span class="spacer"></span> Mar 2024 &mdash; Present
 
 
-- To protect data from system crashes and hacking attacks, planned and implemented a backup and monitoring strategy
-- Reduced technical onboarding time from 2 days to 10 minutes using Docker and Gitpod
-- Decreased the complexity and manual workload for Metalogs’ event administration system by developing a dedicated internal Django application, as well as implementing hosting and logging
-- Reduced downtime and improved stability by successfully migrating the infrastructure and data of multiple webshops to a modernized system
-
-**Technologies:** Linux, bash, Python, Terraform, django, MySQL, JTL, crontab, Docker, PowerShell
+- Entwicklung einer Backup- und Monitoring-Strategie zur Sicherung von Daten vor Systemausfällen und Hackerangriffen
+- Massive Reduzierung der technischen Einarbeitungszeit von 2 Tagen auf 10 Minuten durch die Nutzung von Docker und Gitpod
+- Vereinfachung des Workshop-Managements von Metalog durch die Entwicklung einer internen Django-Anwendung sowie Implementierung von Hosting und Logging
+- Verbesserung der Systemstabilität und Downtimes durch erfolgreiche Migration der Infrastruktur und Daten mehrere Webshops auf ein modernes System
+  
+**Technologien:** Linux, bash, Python, Terraform, django, MySQL, JTL, crontab, Docker, PowerShell
 
 ### Software Delivery Engineer, G&H Bankensoftware AG <span class="spacer"></span> Nov 2022 &mdash; Mar 2024
 
 - Reduced deployment time for 20+ assets from days to minutes by automating manual steps with Python and Jenkins
+- Verringerung der deployment Zeit von Tagen auf Minuten. 
 - Succesfully deployed important updates on high-traffic Production Servers, ensuring the application remained online throughout the process
 - Took the initiative to set up G&Hs Infrastructure in Azure
 - Simplified updates and streamlined infrastructure management by implementing a Jenkins instance with Infrastructure as Code
@@ -50,7 +51,7 @@
 - Feedback from Metalog: "Ruben is a **great communicator**, he is able to build bridges between technical and non-technical People."
 - Feedback from G&H: "In addition to his **specialist knowledge**, Mr. Voss impressed us with his **very good technical understanding**, which enabled him to always find good solutions, even for difficult tasks."
 
-**Technologies:** Linux, Terraform, Docker, RedHat Linux, Python, Azure, django, Gitpod, Amazon Web Services, Jenkins, Kubernetes, MySQL, bash, crontab, PowerShell, GitHub Actions
+**Technologies:** Linux, bash, Python, Terraform, django, MySQL, crontab, Docker, RedHat Linux, Python, Amazon Web Services, Jenkins, Docker, Azure, bash, crontab, Ruby on Rails, PowerShell, Docker, GitHub Actions
 
 ## Education | Certification
 
