@@ -38,7 +38,7 @@
   
 **Technologies:**  Ruby on Rails, Amazon Web Services, Projectmanagement,  Docker, GitHub Actions
 
-### System Administrator, Lottano Webdesign <span class="spacer"></span> Nov 2020 &mdash; Jun 2022
+### Developer, Lottano Webdesign <span class="spacer"></span> Nov 2020 &mdash; Jun 2022
 
 - Cut costs by 70% by configuring hosting on custom servers
 - Set up and connected domains with DNS Records
