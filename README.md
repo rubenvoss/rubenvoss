@@ -11,7 +11,7 @@
 
 ## Experience
 
-### IT-Infrastructure Expert, Metalog GmbH & Co. KG | Freelance <span class="spacer"></span> Mar 2024 &mdash; Present
+### IT-Infrastructure Expert, Metalog GmbH & Co. KG | Freelance <span class="spacer"></span> Apr 2024 &mdash; Present
 
 
 - To protect data from system crashes and hacking attacks, planned and implemented a backup and monitoring strategy
