@@ -2,7 +2,7 @@
 
 <div class="section headerInfo">
 
-- [devrubenv@gmail.com](mailto:devrubenv@gmail.com)
+- [hi@rubenvoss.de](mailto:hi@rubenvoss.de)
 - +49 1567 9171328
 - [GitHub](https://github.com/rubenvoss)
 - [LinkedIn](https://www.linkedin.com/in/rubenvoss/)
@@ -54,7 +54,9 @@
 
 ## Education | Certification
 
-### Currently Studying for CKA Kubernetes <span class="spacer"></span> Jan 2025
+### Currently writing Bachelor Thesis on Kubernetes <span class="spacer"></span> Jul 2025
+
+### Currently Studying for CKA Kubernetes <span class="spacer"></span> Feb 2025
 
 ### HashiCorp, Certified Terraform Associate (003) <span class="spacer"></span> 2024
 
