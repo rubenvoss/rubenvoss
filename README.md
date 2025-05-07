@@ -2,8 +2,7 @@
 
 <div class="section headerInfo">
 
-- [hi@rubenvoss.de](mailto:hi@rubenvoss.de)
-- +49 1567 9171328
+- [kontakt@rubenvoss.de](mailto:hi@rubenvoss.de)
 - [GitHub](https://github.com/rubenvoss)
 - [LinkedIn](https://www.linkedin.com/in/rubenvoss/)
 
