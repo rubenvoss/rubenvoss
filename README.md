@@ -2,7 +2,7 @@
 
 <div class="section headerInfo">
 
-- [kontakt@rubenvoss.de](mailto:hi@rubenvoss.de)
+- [kontakt@rubenvoss.de](mailto:kontakt@rubenvoss.de)
 - [GitHub](https://github.com/rubenvoss)
 - [LinkedIn](https://www.linkedin.com/in/rubenvoss/)
 
